@@ -18,7 +18,7 @@
 #define RIGHT 77
 #define UP 72
 #define DOWN 80
-#define ARROW 224 // ����Ű�� �ƽ�Ű�ڵ带 define
+#define ARROW 224 
 
 char maze[SIZE][SIZE];
 
